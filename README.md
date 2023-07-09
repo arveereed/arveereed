@@ -111,15 +111,6 @@ In my free time, I indulge in various hobbies. I particularly enjoy watching Ame
 <br>
 <br>
 <br>
-
-<div align='center'>
-
-## <b>Thank you and God Bless...✨</b>
-
-</div>
-<br>
-<br>
-<br>
 <br>
 
 ---
