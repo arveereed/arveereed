@@ -113,10 +113,6 @@ In my free time, I indulge in various hobbies. I particularly enjoy watching Ame
 <br>
 <br>
 
----
-
-<br>
-
 Credit for Template: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
 Last Edited on: 07/09/2023
