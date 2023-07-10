@@ -84,7 +84,7 @@ In my free time, I indulge in various hobbies. I particularly enjoy watching ame
 
 <li>
 <a href="https://www.facebook.com/ArveeReeD" target="_blank">
-<img src="https://img.shields.io/badge/Facebook: Arvee-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -92,7 +92,7 @@ In my free time, I indulge in various hobbies. I particularly enjoy watching ame
 
 <li>
 <a href="https://instagram.com/arveereed" target="_blank">
-<img src="https://img.shields.io/badge/Instagram: Arvee-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -100,7 +100,7 @@ In my free time, I indulge in various hobbies. I particularly enjoy watching ame
 
 <li>
 <a href="mailto:arveedurante220@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail: Arvee-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 
