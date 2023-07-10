@@ -7,7 +7,7 @@
 
 I am aspiring Java programmer residing in Laguna. I am pursuing a Bachelor's degree in Information Technology at Cavite State University in Carmona, Cavite. My ultimate career goal is to become a Software Engineer. I am drawn to this field because I thoroughly enjoy solving real-life problems through programming, although I find math problems less engaging. I constantly seek to challenge myself by diving into new subjects from the ground up.
 
-In my free time, I indulge in various hobbies. I particularly enjoy watching American movies, anime series, and educational videos. These activities not only provide me with entertainment but also serve as a means to further my learning.
+In my free time, I indulge in various hobbies. I particularly enjoy watching american movies, anime series, and educational videos. These activities not only provide me with entertainment but also serve as a means to further my learning.
 
 <br><br>
 
