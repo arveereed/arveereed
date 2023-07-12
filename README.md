@@ -64,7 +64,7 @@ In my free time, I indulge in various hobbies. I particularly enjoy watching ame
 
 </a>
 </div>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <br>
 <br>
 <br>
