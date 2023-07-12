@@ -61,9 +61,8 @@ In my free time, I indulge in various hobbies. I particularly enjoy watching ame
 <div align="center">
 <a href="https://github.com/arveereed/">
   <img src="https://streak-stats.demolab.com?user=arveereed&theme=buefy-dark&background=0%2C000000%2C130F40">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+
 </a>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 </div>
 
 <br>
