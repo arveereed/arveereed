@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Status </b>
 <br>
 <div align="center">
    <a href="https://github.com/arveereed/">
